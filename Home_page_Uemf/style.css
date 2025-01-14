@@ -1,0 +1,40 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(28, 88%, 53%);
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar li{
+    float: left;
+}
+
+.navbar2 ul{
+    list-style-type: none;
+    background-color: hsl(254, 22%, 88%);
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.navbar2 a{
+    text-decoration: none;
+    color: hsl(242, 66%, 32%);
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar2 li{
+    float: left;
+}
